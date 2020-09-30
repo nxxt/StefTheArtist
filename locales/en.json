@@ -1,0 +1,44 @@
+{
+  "root": {
+    "copyright": "© Stefanie Lvovsky 2020-%{year}",
+    "made_by": {
+      "kengo": "Daniel",
+      "namika": "Stefanie",
+      "message": "Lovingly made by {kengo}"
+    }
+  },
+  "index": {
+    "title": "StefTheArtist — Creative Illustrator",
+    "author": "Stefanie Lvovsky",
+    "description": "StefTheArtist is a Creative Illustrator based in Greater Seattle.",
+    "greeting": {
+      "name": "StefTheArtist",
+      "message": "I’m {0}, a Creative Illustrator based in Greater Seattle."
+    }
+  },
+  "about": {
+    "title": "About — StefTheArtist",
+    "job": "Creative Illustrator",
+    "hello": "Say Hello",
+    "contact": "Contact Me",
+    "experience": "Experience",
+    "specialities": "Specialities:"
+  },
+  "work": {
+    "title": "%{name} — Stefanie Lvovsky",
+    "product_owner": "Type:",
+    "role": "Art Direction:",
+    "see_more": "See More"
+  },
+  "contact": {
+    "title": "Contact Me",
+    "subtitle": "Lets talk about your upcoming project or idea!",
+    "sender": "Name:",
+    "email": "Email:",
+    "message": "Message:",
+    "happened": "Sent successfully",
+    "happened_message": "Thanks for your message. I'll reply once I recieve it.",
+    "sending": "Sending...",
+    "send": "Send"
+  }
+}

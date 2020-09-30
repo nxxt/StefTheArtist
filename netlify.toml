@@ -1,0 +1,8 @@
+[build]
+  publish = "dist/"
+  environment = { NODE_VERSION = "12.18.1" }
+[[redirects]]
+  from = "https://haiji.co/eigo"
+  to = "https://note.com/haiji505/m/mdb25dc32167f"
+  status = 302
+  force = true
