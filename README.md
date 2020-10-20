@@ -1,6 +1,6 @@
 
 
-Pre-rendered portfolio websites for StefTheArtist.
+Pre-rendered portfolio website for StefTheArtist.
 
 Final Build: https://steftheartist.netlify.app
 
