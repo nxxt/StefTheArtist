@@ -22,7 +22,6 @@
   "scripts": {
     "dev": "nuxt-ts",
     "dev:en": "BUILD_LOCALE=en nuxt-ts",
-    "dev:ja": "BUILD_LOCALE=ja nuxt-ts",
     "generate": "nuxt-ts build && nuxt-ts export",
     "generate:en": "BUILD_LOCALE=en npm run generate",
     "lint": "eslint --ext .ts,.vue .",
